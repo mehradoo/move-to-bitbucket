@@ -1,0 +1,23 @@
+{
+  "name": "move-to-bitbucket",
+  "version": "1.0.0",
+  "description": "for moving git repos to bitbucket",
+  "main": "index.js",
+  "scripts": {
+    "copy": "node index.js",
+    "delete": "node delete.js"
+  },
+  "keywords": [
+    "git",
+    "repository",
+    "move",
+    "bitbucket",
+    "github"
+  ],
+  "author": "Mehrad Sadegh",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^2.1.2",
+    "request": "^2.81.0"
+  }
+}

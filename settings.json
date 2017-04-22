@@ -1,0 +1,9 @@
+{
+  "source_repo_url_prefix": "git@github.com:mehradoo/",
+  "bitbucket_account": "mehradoo",
+  "bitbucket_username": "[replace]",
+  "bitbucket_password": "[replace]",
+  "bitbucket_api_url": "https://api.bitbucket.org/2.0",
+  "bitbucket_repo_url_prefix": "git@bitbucket.org:mehradoo/",
+  "stop_on_error": false
+}
