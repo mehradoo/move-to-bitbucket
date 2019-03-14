@@ -1,5 +1,5 @@
 # move-to-bitbucket
-Move existing git repositories to bitbucket
+Move git repos to bitbucket
 
 #### 1- Update input.txt
 List your git repository names
